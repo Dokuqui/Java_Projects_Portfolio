@@ -8,7 +8,7 @@
 
 Created by: `Illia Semenov`
 
-Last Updated: <!--#echo var="DATE_LOCAL" -->
+Last Updated: [07/02/2024]
 
 ## Projects
 
