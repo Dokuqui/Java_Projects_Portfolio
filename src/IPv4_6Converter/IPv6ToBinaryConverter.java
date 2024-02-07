@@ -1,3 +1,5 @@
+package IPv4_6Converter;
+
 import java.util.Scanner;
 
 public class IPv6ToBinaryConverter {
