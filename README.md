@@ -22,6 +22,10 @@ Last Updated: [07/02/2024]
   - DeluxeBurger
   - Item
   - MealOrder
+- - -
+* Adventure Game `Small text adventure game`[not finished]:
+  - StartGame: Main Class to execute text adventure game
+  - Adventure: Class with logic for any interaction in game with small scenario
 
 
 © 2024 `Illia Semenov`. All rights reserved.
