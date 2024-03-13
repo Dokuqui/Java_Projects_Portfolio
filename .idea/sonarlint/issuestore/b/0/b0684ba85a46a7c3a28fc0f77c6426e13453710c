@@ -1,0 +1,11 @@
+
+‡
+java:S1192"FDefine a constant instead of duplicating this literal "Chest" 3 times.(–ÕğßúÿÿÿÿJ$666c2ba2-883a-4d07-875c-f5fd74d4d962
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†£ñ±úÿÿÿÿJ$e9ed8ac1-9a92-4026-911f-62eb5b4e9f06
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘J$ab8a5702-443b-4fff-afc5-780664551f69
+k	java:S106"+Replace this use of System.out by a logger.(§ÿæèúÿÿÿÿJ$e800bbee-e959-448a-8b88-90c13f75f8a7
+k	java:S106 "+Replace this use of System.out by a logger.(íµ’ûÿÿÿÿJ$0a0c4e8c-6472-422b-a8d4-df3a07211aa2
+f	java:S106)"+Replace this use of System.out by a logger.(¨•íñJ$cd053f82-d401-40b6-9d78-00a7ff2dd4cb
+f	java:S106."+Replace this use of System.out by a logger.(ò‰åõJ$5adb0f56-c399-4662-950c-8017f2a55b47
+k	java:S1060"+Replace this use of System.out by a logger.(àù†øıÿÿÿÿJ$c959511b-2785-4150-933e-6903672316e2

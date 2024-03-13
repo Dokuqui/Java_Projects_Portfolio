@@ -8,7 +8,7 @@
 
 Created by: `Illia Semenov`
 
-Last Updated: [07/02/2024]
+Last Updated: [13/03/2024]
 
 ## Projects
 
@@ -23,9 +23,23 @@ Last Updated: [07/02/2024]
   - Item
   - MealOrder
 - - -
-* Adventure Game `Small text adventure game`[not finished]:
+* Adventure Game `Small text adventure game`:
   - StartGame: Main Class to execute text adventure game
   - Adventure: Class with logic for any interaction in game with small scenario
+- - -
+* Validation Spring MVC `Project created during Studying Spring for validation with custom validation`:
+  - Controller
+  - Entity
+  - Validation: With Custom created validation rule
+  - Validationdemo
+  - Resources: created HTML files with `Thymeleaf`
+- - -
+* Rest_API_Security Spring `Project created during Studying Spring Rest API with Security`:
+  - DAO
+  - Entity
+  - REST
+  - Security
+  - Service
 
 
 © 2024 `Illia Semenov`. All rights reserved.

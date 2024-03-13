@@ -1,0 +1,24 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†£ñ±úÿÿÿÿJ$3ef935e1-2e83-4069-b94f-84babe04675b
+[
+java:S1640±"Convert this Map to an EnumMap.(Â‡­4J$7e251b37-84ea-491b-bc08-5fa110d6c85b
+k	java:S106}"+Replace this use of System.out by a logger.(¯è‘ëúÿÿÿÿJ$fe470352-6c8d-47a7-9c93-24b92576f881
+g	java:S106€"+Replace this use of System.out by a logger.(Ù‰ÌJ$526b2844-6b07-4fb7-aa5c-df3b6c9b3adb
+Š
+java:S1871‹"MThis branch's code block is the same as the block for the branch on line 136.(îù®ØJ$5d573d21-654c-41fb-8d2e-fab9a170bce3
+g	java:S106‰"+Replace this use of System.out by a logger.(¼ÙîãJ$ae8b67cb-7cf0-404e-87a1-6dd261f45cde
+g	java:S106Œ"+Replace this use of System.out by a logger.(¼ÙîãJ$b6a878ce-32ce-41c1-b691-48291f477cb5
+l	java:S106"+Replace this use of System.out by a logger.(È©ÇøÿÿÿÿJ$8d5f456e-f2c5-48df-a5aa-6a3715473258
+f	java:S106’"+Replace this use of System.out by a logger.(ûßƒYJ$552b8f86-b790-426d-ad15-e52e2c9b564a
+l	java:S106–"+Replace this use of System.out by a logger.(¼Ôä·ÿÿÿÿÿJ$94f963d2-8a15-46fa-8c73-81b4a3294d13
+g	java:S106"+Replace this use of System.out by a logger.(ÁÌˆúJ$5f721675-5969-451a-8751-a7c1cd522226
+l	java:S106Ÿ"+Replace this use of System.out by a logger.(ÎÁ ùÿÿÿÿJ$32a5efef-08b6-477b-900b-7c6f443162d2
+}	java:S125¬"<This block of commented-out lines of code should be removed.(¦ªè£ıÿÿÿÿJ$b6483fd7-be29-41a5-bbdb-159a24f62a87
+l	java:S106Á"+Replace this use of System.out by a logger.(˜œ‰‚üÿÿÿÿJ$8effc834-527d-4aba-afae-0b45afae049a
+l	java:S106Â"+Replace this use of System.out by a logger.(èá±˜şÿÿÿÿJ$a7b3dc94-386e-4e18-b605-b39691141d1c
+n
+java:S1602Ä",Remove useless curly braces around statement(êÕÄ¬úÿÿÿÿJ$cd8f80f4-383e-4d83-bc0e-ac58ff2271e6
+g	java:S106Å"+Replace this use of System.out by a logger.(Ù¤Š±J$0de19218-3263-4391-8f0f-d181bf4931e3
+g	java:S106È"+Replace this use of System.out by a logger.(ˆÊü»J$d95b284b-af87-4400-844a-73d561bb53cc
+l	java:S106Ö"+Replace this use of System.out by a logger.(ƒÎ­âùÿÿÿÿJ$51070048-0720-49f6-a8b5-4e5c64ab0471
+l	java:S106â"+Replace this use of System.out by a logger.(á™İûÿÿÿÿJ$ff6c57ab-4cd7-47de-981a-97180504f1b7
