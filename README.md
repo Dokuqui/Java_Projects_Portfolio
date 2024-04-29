@@ -6,9 +6,6 @@
 
 **Repo for different small projects in Java**
 
-Created by: `Illia Semenov`
-
-Last Updated: [13/03/2024]
 
 ## Projects
 
@@ -40,6 +37,12 @@ Last Updated: [13/03/2024]
   - REST
   - Security
   - Service
+  - - - -
+* Dice Jack Game `Project dice game`:
+  - DiceJack
+  - - - -
+* Pokerito `Project pokerito game (blackjack type)`:
+  - Pokerito
 
 
 © 2024 `Illia Semenov`. All rights reserved.

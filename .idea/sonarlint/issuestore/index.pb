@@ -19,3 +19,7 @@ esrc/Rest_API_Security/src/main/java/com/luv2code/springboot/cruddemo/rest/Emplo
 esrc/Rest_API_Security/src/main/java/com/luv2code/springboot/cruddemo/security/DemoSecurityConfig.java,e\d\ede19d2dc41d0102dea4fa1e8e64f456d6ccedc1
 ç
 ]src/Rest_API_Security/src/main/java/com/luv2code/springboot/cruddemo/CruddemoApplication.java,2\6\269972c20bf048384dfe3e87c3a1f94c10e20ca8
+N
+src/PokeritoGame/Pokerito.java,c\c\cc8c2aff15c253ea3591f595d3160eabaf1cd7ce
+J
+src/DiceJack/DiceJack.java,c\3\c3bcd9ef9cb3b31accd24c8d5fbebf12d4cd0802
